@@ -1,4 +1,4 @@
-# my-project
+# RAF News - frontend
 
 ## Project setup
 ```
